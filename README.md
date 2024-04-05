@@ -9,3 +9,14 @@ Motivation (s):
 
 ## Installation Instructions
 - pip install -r requirements.txt
+
+## Roadmap
+1. download a sample of USPTO
+2. parse the pdf's so that we can train models on the data
+3. get skypilot working
+4. finetune a decoder only model sample dataset
+5. download the entire USPTO
+6. see how fast we can train a model on the whole thing
+7. Can we include image info? patents contain diagrams
+8. ... the decision tree of stuff to do has become too large. <EOSTOKEN> for now.
+
