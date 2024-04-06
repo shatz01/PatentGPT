@@ -1,0 +1,6 @@
+torch
+requests
+skypilot
+datasets
+transformers
+accelerate
